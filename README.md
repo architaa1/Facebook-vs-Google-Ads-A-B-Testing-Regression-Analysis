@@ -1,0 +1,2 @@
+# Facebook-vs-Google-Ads-A-B-Testing-Regression-Analysis
+Analyzed Facebook and Google AdWords campaign performance using Python, evaluating clicks, conversions, CTR, and advertising costs. Applied EDA, correlation analysis, hypothesis testing, linear regression, and time-series analysis to identify performance trends, compare campaign effectiveness, and derive data-driven marketing optimization insights.
